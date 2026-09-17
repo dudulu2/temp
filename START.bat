@@ -17,5 +17,5 @@ if %errorlevel%==0 (
   goto :eof
 )
 echo [ERROR] Python 3 not found.
-echo Install Python 3.11+ and run START.bat again.
+echo Install Python 3.10+ and run START.bat again.
 pause
